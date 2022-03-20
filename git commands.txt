@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Shibli2316/just-trying.git
+git remote set-url origin https://Shibli2316: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@github.com/Shibli2316/just-trying.git
+git push --set-upstream origin master
