@@ -1,0 +1,17 @@
+.container{
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    justify-content: center;
+}
+
+.container div{
+    width: 100px;
+    line-height: 75px;
+    height: 100px;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+    background-color: aqua;
+}
